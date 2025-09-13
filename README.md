@@ -186,7 +186,3 @@ Thanks to the following projects:
 - [ai-manus](https://github.com/Simpleyyt/ai-manus)
 
 
-
-<div align="center">
-    <img src="./docs/qq.jpg" height="400px">
-</div>
