@@ -1,13 +1,3 @@
-<h1 align="center">🤖 MathModelAgent 📐</h1>
-<p align="center">
-    <img src="./docs/icon.png" height="250px">
-</p>
-<h4 align="center">
-    专为数学建模设计的 Agent<br>
-    自动完成数学建模，生成一份完整的可以直接提交的论文。
-</h4>
-
-<h5 align="center">简体中文 | <a href="README_EN.md">English</a></h5>
 
 ## 🌟 愿景：
 
@@ -56,9 +46,6 @@
 - [ ] A2A hand off: 代码手多次反思错误，hand off 更聪明模型 agent
 - [ ] chat / agent mode
 
-## 视频demo
-
-<video src="https://github.com/user-attachments/assets/954cb607-8e7e-45c6-8b15-f85e204a0c5d"></video>
 
 > [!CAUTION]
 > 项目处于实验探索迭代demo阶段，有许多需要改进优化改进地方，我(项目作者)很忙，有时间会优化更新
@@ -83,8 +70,6 @@
 git clone https://github.com/jihe520/MathModelAgent.git # 克隆项目
 ```
 
-
-> 如果你想运行 命令行版本 cli 切换到 [master](https://github.com/jihe520/MathModelAgent/tree/master) 分支,部署更简单，但未来不会更新
 
 
 
@@ -181,10 +166,6 @@ Prompt Inject : [prompt](./backend/app/config/md_template.toml)
 网络不畅时的配置过程示例：[网络环境极差时的MathModelAgent配置过程](docs/md/网络环境极差时的MathModelAgent配置过程.md)
 
 
-## 🤝 贡献和开发
-
-[DeepWiki](https://deepwiki.com/jihe520/MathModelAgent)
-
 - 项目处于**开发实验阶段**（我有时间就会更新），变更较多，还存在许多 Bug，我正着手修复。
 - 希望大家一起参与，让这个项目变得更好
 - 非常欢迎使用和提交  **PRs** 和 issues 
@@ -210,21 +191,7 @@ Thanks to the following projects:
 - [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
 - [ai-manus](https://github.com/Simpleyyt/ai-manus)
 
-## 其他
 
-### 💖 Sponsor
-
-[Buy Me a Coffee](./docs/md/sponser.md)
-
-感谢赞助
-
-[danmo-tyc](https://github.com/danmo-tyc)
-
-### 👥 GROUP
-
-有问题可以进群问
-
-[QQ 群：699970403](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rFKquDTSxKcWpEhRgpJD-dPhTtqLwJ9r&authKey=xYKvCFG5My4uYZTbIIoV5MIPQedW7hYzf0%2Fbs4EUZ100UegQWcQ8xEEgTczHsyU6&noverify=0&group_code=699970403)
 
 <div align="center">
     <img src="./docs/qq.jpg" height="400px">
