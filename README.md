@@ -4,12 +4,6 @@
 3 天的比赛时间变为 1 小时 <br> 
 自动完整一份可以获奖级别的建模论文
 
-<p align="center">
-    <img src="./docs/index.png">
-    <img src="./docs/chat.png">
-    <img src="./docs/coder.png">
-    <img src="./docs/writer.png">
-</p>
 
 ## ✨ 功能特性
 
