@@ -58,13 +58,6 @@
 3. [脚本本地部署(社区)](#-方案三自动脚本部署来自社区)
 
 
-下载项目
-
-```bash
-git clone https://github.com/jihe520/MathModelAgent.git # 克隆项目
-```
-
-
 
 
 ### 🐳 方案一：Docker 部署（推荐：最简单）
